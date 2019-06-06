@@ -1,3 +1,34 @@
 <resources>
     <string name="app_name">AT</string>
+    <string name="app_logo">app logo</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sing_in">Sign In</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="remember_me">Remember me</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="please_enter_your_passcode">PLEASE ENTER YOUR PASSCODE</string>
+    <string name="passcode">Passcode</string>
+    <string name="reset_password">RESET PASSWORD</string>
+    <string name="done">DONE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="testing">Testing ...</string>
+    <string name="error_username">password must be more than 3</string>
+    <string name="password_error">password must be more than 5</string>
+    <string name="same_password_error">password must be the same</string>
+    <string name="password_not_set">Password is not set</string>
+    <string name="username_not_set">User name is not set</string>
+    <string name="email_not_set">Email not set</string>
+    <string name="today">TODAY</string>
+    <string name="settings">SETTINGS</string>
+    <string name="profile">PROFILE</string>
+    <string name="classes">CLASSES</string>
+    <string name="attendance_tracker">Attendance Tracker</string>
+    <string name="history">HISTORY</string>
+    <string name="up_next">UP NEXT</string>
 </resources>
